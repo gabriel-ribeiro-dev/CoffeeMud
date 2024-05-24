@@ -1,0 +1,16 @@
+Será difícil traduzir o CoffeeMud 100%, mas aqui está uma maneira rápida de fazer os primeiros 90% do caminho até lá.  
+Primeiro, copie o arquivo do analisador de entrada resources/parser_en_TX.properties na mesma pasta com um nome de idioma diferente, como resources/parser_fr_CA.properties para francês canadense.  
+Em seguida, copie o arquivo de tradução de saída resources/translation_en_TX.properties e renomeie a cópia, assim como fez com o arquivo analisador de entrada.
+Abra o arquivo coffeemud.ini, encontre as entradas para LANGUAGE= e COUNTRY= e altere-as de acordo.
+Abra sua cópia de resources/parser_??_??.properties e role para baixo até ver [command-word-processor] e uma linha abaixo dele que diz #autoignore 9999 . Remova a marca # para que diga  autoignore 9999 . Salve o arquivo, iremos editá-lo novamente mais tarde.
+Abra sua cópia de resources/translation_??_??.properties e role para baixo até ver [session-translation] e uma linha abaixo dela que diz #autoignore 9999 . Remova a marca # para que diga  autoignore 9999 . Salve o arquivo, iremos editá-lo novamente mais tarde.
+Agora faça login na sua lama como seu Arconte e comece a inserir comandos. À medida que você insere comandos e faz coisas, o analisador e os arquivos de tradução serão preenchidos com strings não localizadas que encontrar. As versões anteriores deste recurso não capturarão TODAS as strings, apenas aquelas designadas como localizáveis, mas eventualmente todas as strings serão tratadas. Quando estiver satisfeito por ter visto todas as strings e inserido todos os comandos que deseja localizar, você pode parar e deixar que seus usuários cuidem do resto.
+A última etapa (pelo menos por enquanto) é reabrir os arquivos de propriedades do analisador e da tradução e encontrar as duas seções que modificamos anteriormente. Você verá que essas seções foram preenchidas com muitas linhas como esta:
+IGNOREWHOLE "Agora você está falando @x1."
+IGNOREWHOLE "WIMPY"
+Você deseja alterar essas linhas para comandos REPLACEEXACT, tendo o cuidado de manter a distinção entre maiúsculas e minúsculas, como este:
+REPLACEEXACT "Agora você está falando @x1." COM "Que vous parlez @x1."
+SUBSTITUA EXATO "WIMPY" POR "MAUVIETTE"
+Você pode manter o comando AUTOIGNORE 9999 no final da lista e ele continuará adicionando quaisquer novas strings que encontrar e que foram perdidas na primeira vez.
+Depois disso, fica fácil, mas tedioso - você precisará localizar todos os arquivos de facção (alignment.ini), todos os arquivos de ajuda, arquivos de texto, lists.ini e todos os outros arquivos soltos.
+Para tudo o que o acima não entende, CoffeeMud oferece suporte a outros idiomas por meio de um sistema de tradução que utiliza expressões regulares. Novamente, leia os arquivos resources/parser_en_TX.properties e resources/translation_en_TX.properties. O primeiro traduz o texto inserido pelo usuário, o segundo traduz o texto enviado ao usuário. Experimentar esses recursos o levará até lá, uma frase de cada vez.
