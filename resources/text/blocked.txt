@@ -1,9 +1,6 @@
 
 BLOCKED: PERMANENT
 
-*********************************************
-***       YOUR COMPUTER IS BLOCKED        ***
-***    If you believe this is an error,   ***
-***    please contact the system admins.  *** 
-*********************************************
-
+Atenção:
+Você está con o endereço de ip bloqueado para este servidor.
+Caso você ache que isto é um erro, considere entrar em comtato com os administradores do mud para um eventual desbloqueio.

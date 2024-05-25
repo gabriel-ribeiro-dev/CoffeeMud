@@ -1,5 +1,9 @@
-^xThe Rules of @MudInfo?NAME@!^.^?^N
-^H1.^N No killing, stealing from, or otherwise harassing newbie players.
-^H2.^N Maintain the illusion of fantasy by role-playing your character.
-^H3.^N Exploitation of any system problems is forbidden! If you find a bug, or a loophole in the gameplay, report it with the BUG command!
-^H4.^N Bot-Killing other players is not allowed.
+As Regras de @MudInfo?NAME@!
+1. 
+Não mate, roube de, ou assedia jogadores iniciantes.
+2. 
+Mantenha a ilusão de fantasia interpretando seu personagem.
+3. 
+A exploração de quaisquer problemas do sistema é proibida! Se você encontrar um bug ou uma brecha na jogabilidade, reporte-o com o comando BUG!
+4. 
+Matar outros jogadores usando bots não é permitido.

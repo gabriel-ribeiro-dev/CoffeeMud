@@ -1,8 +1,9 @@
-^yYour stats below reflect your physical and mental gifts.  They can be boosted through the use of ^HTraining sessions^?, which are granted at first level, and are gained at a rate of one per level.  These training sessions are also needed to gain new spells and abilities which your class qualifies for, but does not get at first level.^N
-
-^ZStrength:^.^? Physical strength and fighting prowess is reflected in strength. Fighter-types love their muscles.
-^ZIntelligence:^.^? Memory and concentration, and the ability to gain greater proficiency in skills is reflected in Intelligence. Mages require intellect.
-^ZDexterity:^.^? Agility and the ability to dodge blows is reflected in Dexterity.  Thieves need all of this they can get.
-^ZConstitution:^.^? Health, stamina, and the ability to live through harder fights is reflected in Constitution. Druids adore health.
-^ZCharisma:^.^? Grace, charm, and the ability to get better prices from merchants is reflected in Charisma. Bards live off their charm.
-^ZWisdom:^.^? Intuition, wit, and the ability to gain more practice points per level is reflected in Wisdom. Clerics use wisdom best.
+Suas Estatísticas
+Suas estatísticas abaixo refletem seus dons físicos e mentais. Elas podem ser aumentadas através de sessões de Treinamento, que são concedidas no primeiro nível e são ganhas à taxa de uma por nível. Essas sessões de treinamento também são necessárias para aprender novos feitiços e habilidades para as quais sua classe se qualifica, mas não obtém no primeiro nível.
+Força:Força física e proeza em combate são refletidas na Força. Tipos de Lutadores adoram seus músculos.
+Inteligência:Memória e concentração, e a habilidade de obter maior proficiência em habilidades são refletidas na Inteligência. Magos exigem intelecto.
+Destreza:Agilidade e a habilidade de desviar golpes são refletidas na Destreza. Ladinos precisam de toda a Destreza que puderem obter.
+Constituição:Saúde, resistência e a habilidade de sobreviver a lutas mais difíceis são refletidas na Constituição. Druidas adoram saúde.
+Carisma:Graça, charme e a habilidade de conseguir preços melhores de comerciantes são refletidas no Carisma. Bardos vivem de seu charme.
+Sabedoria:Intuição, inteligência e a habilidade de ganhar mais pontos de prática por nível são refletidas na Sabedoria. Clérigos usam a sabedoria melhor.
+I

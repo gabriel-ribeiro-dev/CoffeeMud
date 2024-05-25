@@ -1,4 +1,2 @@
-^HYour account has been created!^N
-
-Please write down your new account name and password.
-
+Sua conta foi criada com sucesso!
+Por favor, salve seu nome de usuário e senha para que seja possível retornar ao nosso mundo.

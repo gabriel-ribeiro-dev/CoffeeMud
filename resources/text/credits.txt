@@ -1,13 +1,10 @@
-CoffeeMud is an all-Java server application 
-(C) 2000-2024 by Bo Zimmerman
-
-Special thanks to Tim Kassebaum, Jef Kamenek, David Walters
-Mike Rundell, Thomas Neumann, Lee H. Fox, George Reese, and
+CoffeeMud é um aplicativo de servidor totalmente em Java
+(C) 2000-2024 por Bo Zimmerman
+Agradecimentos especiais a Tim Kassebaum, Jef Kamenek, David Walters,
+Mike Rundell, Thomas Neumann, Lee H. Fox, George Reese e
 Jeremy Vyska.
-
-CoffeeMud is based on concepts borrowed from AD&D, and 
-observed in such popular muds as ROM.
-
-Long live text-based mudding!
-
-
+Tradução para Português Brazileiro por Gabriel Ribeiro, Caio Martins e Godaco 
+CoffeeMud é baseado em conceitos emprestados do AD&D e
+observados em MUDs populares como ROM.
+Viva o MUD de texto!
+I
