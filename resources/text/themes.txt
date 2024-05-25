@@ -1,8 +1,7 @@
-\n\r\n\r^pSelect from one of the following themes.  They will affect your race and class choices going forward.^N
+\n\r\n\r^pSelecione um dos seguintes temas.  Eles afetarão suas escolhas de raça e classe daqui para frente.^N
 
-^XFantasy      :^.^? Battle the forces of good and evil in this world of dragons, magic, and valiant swordplay.
+^XFantasia :^.^? Lute contra as forças do bem e do mal neste mundo de dragões, magia e valente esgrima.
 
-^XTechnological:^.^? See the future on distant worlds and the reaches of space as you build a trade empire.
+^XTecnológico:^.^? Veja o futuro em mundos distantes e nos confins do espaço enquanto constrói um império comercial.
 
-^XHeroic       :^.^? Play a superhero or supervillain in this struggle for notoriety and dominance.
-
+^XHeroico :^.^? Jogue como um super-herói ou supervilão nesta luta por notoriedade e domínio.

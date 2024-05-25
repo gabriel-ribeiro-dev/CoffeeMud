@@ -1,9 +1,7 @@
 
 BLOCKED: PERMANENT
 
-*********************************************
-***       YOUR COMPUTER IS BLOCKED        ***
-***    If you believe this is an error,   ***
-***    please contact the system admins.  *** 
-*********************************************
 
+
+Seu computador está bloqueado.
+Se você acredita que isto é um erro, por favor contacte um dos administradores.

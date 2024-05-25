@@ -1,11 +1,7 @@
-^HWelcome to @MudInfo?NAME@!^N
+^HBem-vindo ao @MudInfo?NAME@!^N
 
-You are about to enter a world of high adventure and terrible danger.  The first step in this process is to decide what sort of adventurer you will be.  
+Você está prestes a entrar em um mundo de grandes aventuras e perigos terríveis.  O primeiro passo neste processo é decidir que tipo de aventureiro você será.  
 
-Since this is a beta-test mud, we will need as much feedback as you can give us, including all of your gripes, praises, and suggestions if our adventure can improve.
+Como este é um teste beta, precisaremos de todo o feedback que você puder nos dar, incluindo todas as suas reclamações, elogios e sugestões se nossa aventura puder melhorar.
 
-You'll find that the character creation process is rather simple, but that the game itself is as complex and exciting as you make it.  You will be guided wizard-style through each question in creating your character.  
-
-For more information, visit the game web site at http://@MudInfo?DOMAIN@:@WebServerPort@
-
-If you are unfamiliar with MUDs, check out the code base site at http://www.coffeemud.org for more information before proceeding.
+Você descobrirá que o processo de criação do personagem é bastante simples, mas o jogo em si é tão complexo e emocionante quanto você o cria.  Você será guiado como um assistente em cada questão na criação de seu personagem.  
