@@ -1,9 +1,9 @@
-\n\r\n\r^pEscolha uma raça para seu personagem.  Embora as raças sejam destinadas principalmente para fins de RPG, existem algumas diferenças significativas entre as várias raças.^N
-^XAnão :^.^? Os anões são mais baixos que os humanos, mas muito mais atarracados e gostam de usar barbas (incluindo as mulheres).
-^XElfo:^.^? Elfos são ligeiramente mais baixos e mais esbeltos que os humanos, mas são rápidos e ágeis.
-^XGnomo :^.^? Os gnomos são pessoas curiosas e perspicazes, lembrando pequenos anões.
-^XMeio Elfo:^.^? Meio Elfos são uma mistura de humanos e elfos, possuindo impulso humano e graça élfica.
-^XHalfling:^.^? Halflings são um povo muito baixo e de pés peludos, conhecidos por suas mãos rápidas e barrigas redondas e cheias.
-^XHumano:^.^? Assim como você e eu!  Os humanos são aventureiros versáteis e bem-sucedidos!
-^XDuergar :^.^? Um anão mais careca e mal-humorado, essas criaturas têm inúmeras habilidades subterrâneas sombrias.
-^XDrow :^.^? Esses primos dos elfos de pele escura odeiam a luz do sol e são rápidos, mas frágeis.
+\n\r\n\r^pChoose a race for your character.  Although races are meant primarily for role-playing purposes, there are some significant differences between the several races.^N
+^XDwarf   :^.^? Dwarves are shorter than humans, but much stockier, and enjoy sporting beards (including the women).
+^XElf     :^.^? Elves are slightly shorter and more slender than humans, but are quick and agile.
+^XGnome   :^.^? Gnomes are curious and quick-witted folk, resembling small dwarves.
+^XHalf Elf:^.^? Half Elves are a mixture of humans and elves, possessing human drive and elven grace.
+^XHalfling:^.^? Halflings are a very short fur-footed folk, noted for their quick hands and round, full stomachs.
+^XHuman   :^.^? Just like you and me!  Humans are versatile and successful adventurers!
+^XDuergar :^.^? A grumpier balder dwarf, these creatures have numerous dark underground abilities.
+^XDrow    :^.^? These dark skinned cousins of the elves hate the sunlight, and are quick, but frail.

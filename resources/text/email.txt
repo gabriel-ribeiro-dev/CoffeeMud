@@ -1,4 +1,4 @@
 %0D
-@MudInfo?NAME@ suporta e-mail!  
+@MudInfo?NAME@ supports email!  
 
-Se você ativar o encaminhamento automático, os e-mails enviados para playername@@MudInfo?DOMAIN@ por outros jogadores serão encaminhados automaticamente para o seu endereço de e-mail real.  Fornecer um endereço de e-mail real também permite que você recupere sua senha caso a esqueça.  Seu endereço verdadeiro é mantido em segredo, é claro.
+If you enable autoforwarding, email sent to playername@@MudInfo?DOMAIN@ by other players will be forwarded to your real email address automatically.  Giving a real email address also allows you to retrieve your password if you forget it.  Your real address is kept secret, of course.

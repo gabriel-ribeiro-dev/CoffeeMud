@@ -1,3 +1,4 @@
-^HSua conta foi criada!^N
+^HYour account has been created!^N
 
-Por favor, anote seu novo nome de conta e senha.
+Please write down your new account name and password.
+

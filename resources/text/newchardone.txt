@@ -1,11 +1,14 @@
-^xCriação do personagem concluída!^.^?^N
-Seu próximo passo é começar a explorar.  Siga todas as instruções que você leu 
-na tela e digite os comandos LOOK ou HELP se precisar de alguma dica adicional.
 
-^xAs regras de @MudInfo?NAME@!^.^?^N
-^H1.^N Não é permitido matar, roubar ou assediar de qualquer outra forma jogadores novatos.
-^H2.^N Mantenha a ilusão de fantasia interpretando seu personagem.
-^H3.^N É proibida a exploração de quaisquer problemas do sistema! Se você encontrar um bug ou uma brecha no jogo, reporte-o com o comando BUG!
-^H4.^N Não é permitido matar bots de outros jogadores.
 
-Pressione Enter para começar:
+^xCharacter creation complete!^.^?^N
+Your next step is to begin exploring.  Follow any instructions you read 
+on the screen, and enter the commands LOOK or HELP if you need some
+additional clues.
+
+^xThe Rules of @MudInfo?NAME@!^.^?^N
+^H1.^N No killing, stealing from, or otherwise harassing newbie players.
+^H2.^N Maintain the illusion of fantasy by role-playing your character.
+^H3.^N Exploitation of any system problems is forbidden! If you find a bug, or a loophole in the gameplay, report it with the BUG command!
+^H4.^N Bot-Killing other players is not allowed.
+
+Press Enter to begin:

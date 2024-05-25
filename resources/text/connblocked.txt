@@ -1,6 +1,11 @@
 
 BLOCKED: TEMPORARY
 
-Seu endereço IP está bloqueado devido a conexões ececivas.
-por favor, tente novamente mais tarde.
+*************************************************
+***           TEMPORARILY BLOCKED             ***
+*** Your address has been blocked temporarily ***
+*** due to excessive invalid connections.     ***
+*** Please try back in @mins@ minutes.        *** 
+*************************************************
+
 
