@@ -1,5 +1,5 @@
 \n\r\n\r^bAgora é hora de escolher a ^!Classe^? do seu personagem, que define a sua jornada no jogo.Esta é a sua decisão mais importante, escolha com sabedoria!^N
-^xFight:^.^? Guerreiros são mestres brutais em armas, habilidosos na arte de matar e valiosos em um combate corpo a corpo. Isso também inclui Rangers, Paladinos, Bárbaros e Monges.
+^xGuerreiro:^.^? Guerreiros são mestres brutais em armas, habilidosos na arte de matar e valiosos em um combate corpo a corpo. Isso também inclui Rangers, Paladinos, Bárbaros e Monges.
 ^xLadrão:^.^? Ladrões são habilidosos, astutos e desonestos, mestres em roubar, furtar, esconder, esgueirar-se, armar armadilhas, envenenar e muito mais. Isso também inclui Assassinos, Arcanistas, Ladrões e Caçadores.
 ^xBardo:^.^? Bardos são cantores viajantes, cujas "canções" podem possuir magia poderosa, que também se qualificam para muitas habilidades de ladrão.
 ^xClérigo:^.^? Clérigos são os grandes vassalos dos Deuses, que possuem grandes habilidades mágicas em suas numerosas "orações". Isso também inclui numerosas classes especializadas de Clérigos devocionais.
