@@ -1,4 +1,6 @@
-Bem-vindo ao @MudInfo?NAME@!
-Você está prestes a entrar em um mundo de alta aventura e perigo terrível. O primeiro passo nesse processo é decidir que tipo de aventureiro você será.
-Como este é um MUD de teste beta, precisaremos de todo o feedback que você puder nos dar, incluindo todas as suas reclamações, elogios e sugestões para que nossa aventura possa melhorar.
-Você descobrirá que o processo de criação de personagem é bastante simples, mas que o próprio jogo é tão complexo e emocionante quanto você o fizer. Você será guiado através de cada pergunta na criação de seu personagem.
+^HSeja bem-vindo a @MudInfo?NAME@!^N
+Você está prestes a entrar em um mundo de grandes aventuras e perigos terríveis. O primeiro passo nesse processo é decidir que tipo de aventureiro você será.
+Como este é um MUD de teste beta, precisamos de todo o feedback que você puder nos dar, incluindo todas as suas reclamações, elogios e sugestões para que nossa aventura possa melhorar.
+Você vai perceber que o processo de criação de personagem é bastante simples, mas que o jogo em si é tão complexo e emocionante quanto você o faz. Você será guiado como um mago através de cada pergunta na criação de seu personagem.
+Para mais informações, visite o site do jogo em http://@MudInfo?DOMAIN@:@WebServerPort@
+Se você não está familiarizado com MUDs, confira o site da base de código em http://www.coffeemud.orgpara mais informações antes de prosseguir.

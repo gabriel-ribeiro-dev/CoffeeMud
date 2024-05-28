@@ -1,5 +1,11 @@
 
 BLOCKED: TEMPORARY
 
-VocÍ est· tempor·riamente bloqueado deste servidor.
-Por favor, aguarde o fim do bloqueio ou considere entrar em contato com os administradores para obter um eventual desbloqueio.
+*************************************************
+***BLOQUEADO TEMPORARIAMENTE***
+*** Seu endere√ßo IP foi bloqueado temporariamente ***
+*** devido a conex√µes inv√°lidas excessivas.***
+*** Por favor, tente novamente em @ mins@ minutos.***
+*************************************************
+
+

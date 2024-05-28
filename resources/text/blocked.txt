@@ -1,6 +1,10 @@
 
 BLOCKED: PERMANENT
 
-Atenção:
-Você está con o endereço de ip bloqueado para este servidor.
-Caso você ache que isto é um erro, considere entrar em comtato com os administradores do mud para um eventual desbloqueio.
+*********************************************
+***SEU INDEREÇO DE IP ESTÁ BLOQUEADO***
+***Se você acredita que isto é um erro,***
+***entre em contato com os administradores do sistema.***
+
+*********************************************
+

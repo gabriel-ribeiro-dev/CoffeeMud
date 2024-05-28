@@ -1,8 +1,8 @@
-Agora é hora de escolher a Classe do seu personagem, que é a profição  que ele seguirá no jogo. Esta é sua decisão mais importante, escolha com sabedoria!
-Guerreiro: Guerreiros são mestres brutais de armas, habilidosos na arte de matar, e de valor inestimável em um combate corpo a corpo. Isso também inclui Arqueiros, Paladinos, Bárbaros e Monges.
-Ladino: Ladinos são habilidosos, astutos e traiçoeiros, habilidosos em roubar, furtividade, esconder, espreitar, armar armadilhas, envenenar e muito mais. Isso também inclui Assassinos, Arcanistas, Ladrões e Caçadores.
-Bardo: Bardo são cantores viajantes, cujas "canções" podem possuir magia poderosa, que também se qualificam para muitas habilidades de ladrão.
-Clérigos: Clérigos são os grandes vassalos dos Deuses, que possuem grandes habilidades mágicas em suas numerosas "orações". Isso também inclui várias classes de Clérigo devocionais especializadas.
-Mago: Magos são mestres da magia e detentores dos grandes poderes elementais. Isso também inclui várias classes de Mago Especialista.
-Druid:Druidas são guardiões místicos do mundo natural, cuja magia é extraída da terra, do mar e do céu.
-Aprendiz: Não sabe o que ser? Comece como um Aprendiz e faça um treinamento em uma das melhores classes quando estiver pronto!
+\n\r\n\r^bAgora é hora de escolher a ^!Classe^? do seu personagem, que define a sua jornada no jogo.Esta é a sua decisão mais importante, escolha com sabedoria!^N
+^xFight:^.^? Guerreiros são mestres brutais em armas, habilidosos na arte de matar e valiosos em um combate corpo a corpo. Isso também inclui Rangers, Paladinos, Bárbaros e Monges.
+^xLadrão:^.^? Ladrões são habilidosos, astutos e desonestos, mestres em roubar, furtar, esconder, esgueirar-se, armar armadilhas, envenenar e muito mais. Isso também inclui Assassinos, Arcanistas, Ladrões e Caçadores.
+^xBardo:^.^? Bardos são cantores viajantes, cujas "canções" podem possuir magia poderosa, que também se qualificam para muitas habilidades de ladrão.
+^xClérigo:^.^? Clérigos são os grandes vassalos dos Deuses, que possuem grandes habilidades mágicas em suas numerosas "orações". Isso também inclui numerosas classes especializadas de Clérigos devocionais.
+^xMago:^.^? Magos são mestres da magia e manejadores dos grandes poderes elementais. Isso também inclui numerosas classes de Magos Especialistas.
+^xDruida:^.^? Druidas são guardiões místicos do mundo natural, cuja magia é extraída da terra, do mar e do céu.
+^xAprendiz:^.^? Não sabe o que ser? Comece como um Aprendiz e faça um treinamento em uma das melhores classes quando estiver pronto!

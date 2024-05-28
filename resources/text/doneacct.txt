@@ -1,2 +1,2 @@
-Sua conta foi criada com sucesso!
-Por favor, salve seu nome de usuário e senha para que seja possível retornar ao nosso mundo.
+^HSua conta foi criada!^N
+Por favor, anote seu novo nome de usuário e senha.

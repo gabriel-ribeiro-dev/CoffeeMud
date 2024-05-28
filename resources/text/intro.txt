@@ -1,1 +1,15 @@
-Seja bem-vindo ao mud @MudInfo?NAME@
+                    (
+                      )     (
+               ___...(-------)-....___
+           .-""       )    (          ""-.
+     .-'``'|-._             )         _.-|
+    /  .--.|   `""---...........---""`   |
+   /  /    |                             |
+   |  |    | @MudInfo?NAME@
+    \  \   |                             |
+     `\ `\ | Desenvolvido por CoffeeMud v5.10  |
+       `\ `| (C) 2000-2024 Bo Zimmerman  |
+       _/ /\ www.coffeemud.org           /
+      (__/  \  Este arquivo é:            /
+   _..---""` \ resources/text/intro.txt/`""---.._
+.-'           \                       /          '-.

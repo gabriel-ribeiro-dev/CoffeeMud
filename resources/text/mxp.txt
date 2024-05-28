@@ -10,30 +10,30 @@
 <!ELEMENT MEX '<SEND HREF="ENTER &text;|LOOK &text;|OPEN &text;|CLOSE &text;|LOCK &text;|UNLOCK &text;" hint="Right-Click to affect the exit|ENTER &text;|LOOK &text;|OPEN &text;|CLOSE &text;|LOCK &text;|UNLOCK &text;">'>
 <!-- ********************************************************************* -->
 <!-- tags dealing with room items -->
-<!ELEMENT CRItem '<SEND HREF="GET &quot;&text;&quot; from &quot;&container;&quot;" hint="Click to get from object|GET &text; from &container;">'>
-<!ELEMENT CMItem '<SEND HREF="GET &quot;&text;&quot; from &quot;&container;&quot;" hint="Click to get from object|GET &text; from &container;">'>
-<!ELEMENT MItem '<SEND HREF="WEAR &quot;&text;&quot;|DROP &quot;&text;&quot;|LOOK &quot;&text;&quot;|DRINK &quot;&text;&quot;|EAT &quot;&text;&quot;|HOLD &quot;&text;&quot;|READ &quot;&text;&quot;" hint="Right-Click to use this object|WEAR &text;|DROP &text;|LOOK &text;|DRINK &text;|EAT &text;|HOLD &text;|READ &text;">'>
-<!ELEMENT EItem '<SEND HREF="REMOVE &quot;&text;&quot;|LOOK &quot;&text;&quot;" hint="Right-Click to use this object|REMOVE &text;|LOOK &text;">'>
-<!ELEMENT RItem '<SEND HREF="GET &quot;&name;&quot;|LOOK &quot;&name;&quot;|DRINK &quot;&name;&quot;|READ &quot;&name;&quot;" hint="Right-Click to use this object|GET &name;|LOOK &name;|DRINK &name;|READ &name;">' ATT='name'>
-<!ELEMENT RMob '<SEND HREF="CONSIDER &quot;&name;&quot;|LOOK &quot;&name;&quot;|KILL &quot;&name;&quot;" hint="Right-Click to affect this creature|CONSIDER &name;|LOOK &name;|KILL &name;">' ATT='name'>
-<!ELEMENT RShopM '<SEND HREF="CONSIDER &quot;&name;&quot;|LOOK &quot;&name;&quot;|KILL &quot;&name;&quot;|LIST &quot;&name;&quot;" hint="Right-Click to affect this creature|CONSIDER &name;|LOOK &name;|KILL &name;|LIST &name;">' ATT='name'>
-<!ELEMENT WItem '<SEND HREF="LOOK &quot;&name;&quot;|READ &quot;&name;&quot;" hint="Right-Click to use this object|LOOK &name;|READ &name;">' ATT='name'>
+<!ELEMENT CRItem '<SEND HREF="GET "&text;" from "&container;"" hint="Click to get from object|GET &text; from &container;">'>
+<!ELEMENT CMItem '<SEND HREF="GET "&text;" from "&container;"" hint="Click to get from object|GET &text; from &container;">'>
+<!ELEMENT MItem '<SEND HREF="WEAR "&text;"|DROP "&text;"|LOOK "&text;"|DRINK "&text;"|EAT "&text;"|HOLD "&text;"|READ "&text;"" hint="Right-Click to use this object|WEAR &text;|DROP &text;|LOOK &text;|DRINK &text;|EAT &text;|HOLD &text;|READ &text;">'>
+<!ELEMENT EItem '<SEND HREF="REMOVE "&text;"|LOOK "&text;"" hint="Right-Click to use this object|REMOVE &text;|LOOK &text;">'>
+<!ELEMENT RItem '<SEND HREF="GET "&name;"|LOOK "&name;"|DRINK "&name;"|READ "&name;"" hint="Right-Click to use this object|GET &name;|LOOK &name;|DRINK &name;|READ &name;">' ATT='name'>
+<!ELEMENT RMob '<SEND HREF="CONSIDER "&name;"|LOOK "&name;"|KILL "&name;"" hint="Right-Click to affect this creature|CONSIDER &name;|LOOK &name;|KILL &name;">' ATT='name'>
+<!ELEMENT RShopM '<SEND HREF="CONSIDER "&name;"|LOOK "&name;"|KILL "&name;"|LIST "&name;"" hint="Right-Click to affect this creature|CONSIDER &name;|LOOK &name;|KILL &name;|LIST &name;">' ATT='name'>
+<!ELEMENT WItem '<SEND HREF="LOOK "&name;"|READ "&name;"" hint="Right-Click to use this object|LOOK &name;|READ &name;">' ATT='name'>
 <!-- ********************************************************************* -->
 <!-- miscellaneous tags -->
 <!ELEMENT FIGHT EMPTY FLAG='Fight'>
 <!ELEMENT HELP '<SEND HREF="HELP &text;" hint="Click to view the help entry.">'>
 <!ELEMENT HELPNAME '<SEND HREF="HELP &name;" hint="Click to view the help entry.|HELP &text;">' ATT='name'>
-<!ELEMENT SHOP '<SEND HREF="VIEW &quot;&text;&quot; &quot;&shopkeeper;&quot;|BUY &quot;&text;&quot; &quot;&shopkeeper;&quot;" hint="Right-Click to use this object|VIEW &quot;&text;&quot; &quot;&shopkeeper;&quot;|BUY &quot;&text;&quot; &quot;&shopkeeper;&quot;">'>
+<!ELEMENT SHOP '<SEND HREF="VIEW "&text;" "&shopkeeper;"|BUY "&text;" "&shopkeeper;"" hint="Right-Click to use this object|VIEW "&text;" "&shopkeeper;"|BUY "&text;" "&shopkeeper;"">'>
 <!ELEMENT Health EMPTY ATT='name'>
 <!ELEMENT HealthText EMPTY ATT='name'>
 <!ELEMENT LEARN EMPTY FLAG='Learn' ATT='name'>
 <!ELEMENT TELL '<SEND HREF="TELL &name;" PROMPT hint="Click to reply.|TELL &name;">' ATT='name'>
-<!ELEMENT SAY '<SEND HREF="SAY &quot;&name;&quot; " PROMPT hint="Click to reply.|SAY &quot;&name;&quot;">' ATT='name'>
-<!ELEMENT WHISPER '<SEND HREF="WHISPER &quot;&name;&quot; " PROMPT hint="Click to reply.|WHISPER &quot;&name;&quot;">' ATT='name'>
+<!ELEMENT SAY '<SEND HREF="SAY "&name;" " PROMPT hint="Click to reply.|SAY "&name;"">' ATT='name'>
+<!ELEMENT WHISPER '<SEND HREF="WHISPER "&name;" " PROMPT hint="Click to reply.|WHISPER "&name;"">' ATT='name'>
 <!ELEMENT GTELL '<SEND HREF="GTELL" PROMPT hint="Click to reply.|GTELL">' ATT='name'>
 <!ELEMENT CHANNEL '<SEND HREF="&name; " PROMPT hint="Click to reply.|&name; ">' ATT='name'>
 <!ELEMENT CHANNELS '<SEND HREF="&extra;&text;" hint="Click to toggle on/off.|&extra;&text;">' ATT='extra'>
-<!ELEMENT JRNL '<SEND HREF="READ &text; &quot;&name;&quot;" hint="Click to read.|READ &text; &quot;&name;&quot;">' ATT='name'>
+<!ELEMENT JRNL '<SEND HREF="READ &text; "&name;"" hint="Click to read.|READ &text; "&name;"">' ATT='name'>
 <!ELEMENT MENU '<SEND>'>
 <!ELEMENT CLAN '<SEND HREF="CLAN &text;" hint="Click for info.|CLAN &text;">' >
 <!-- ********************************************************************* -->
@@ -43,7 +43,7 @@
 <GAUGE vichp Max=vicmaxhp color=red Caption="Enemy Damage">
 <!-- ********************************************************************* -->
 <!-- here are some archon tool elements -->
-<!ELEMENT LSTROOMID '<SEND HREF="GOTO &quot;&text;&quot;" hint="Click to goto.|GOTO &text;">' >
+<!ELEMENT LSTROOMID '<SEND HREF="GOTO "&text;"" hint="Click to goto.|GOTO &text;">' >
 <!ELEMENT LSTUSER '<SEND HREF="SNOOP &text;|BOOT &text;|BAN &text;|MULTIWATCH ADD &text;" hint="Right-Click to use.|SNOOP &text;|BOOT &text;|BAN &text;|MULTIWATCH ADD &text;">' >
 <!ELEMENT LSTQUEST '<SEND HREF="MODIFY QUEST &text;" hint="Click to start/stop.|MODIFY QUEST &text;">' >
 <!-- ********************************************************************* -->
@@ -56,5 +56,4 @@
 <!ELEMENT Move FLAG="Set move">
 <!ELEMENT MaxMove EMPTY FLAG="Set maxmove">
 <VERSION>
-<SUPPORT image send gauge font b image.url sound.u>
-</P>
+<SUPPORT image se

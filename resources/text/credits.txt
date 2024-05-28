@@ -3,8 +3,6 @@ CoffeeMud é um aplicativo de servidor totalmente em Java
 Agradecimentos especiais a Tim Kassebaum, Jef Kamenek, David Walters,
 Mike Rundell, Thomas Neumann, Lee H. Fox, George Reese e
 Jeremy Vyska.
-Tradução para Português Brazileiro por Gabriel Ribeiro, Caio Martins e Godaco 
 CoffeeMud é baseado em conceitos emprestados do AD&D e
 observados em MUDs populares como ROM.
 Viva o MUD de texto!
-I

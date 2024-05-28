@@ -1,9 +1,8 @@
-Suas Estatísticas
-Suas estatísticas abaixo refletem seus dons físicos e mentais. Elas podem ser aumentadas através de sessões de Treinamento, que são concedidas no primeiro nível e são ganhas à taxa de uma por nível. Essas sessões de treinamento também são necessárias para aprender novos feitiços e habilidades para as quais sua classe se qualifica, mas não obtém no primeiro nível.
-Força:Força física e proeza em combate são refletidas na Força. Tipos de Lutadores adoram seus músculos.
-Inteligência:Memória e concentração, e a habilidade de obter maior proficiência em habilidades são refletidas na Inteligência. Magos exigem intelecto.
-Destreza:Agilidade e a habilidade de desviar golpes são refletidas na Destreza. Ladinos precisam de toda a Destreza que puderem obter.
-Constituição:Saúde, resistência e a habilidade de sobreviver a lutas mais difíceis são refletidas na Constituição. Druidas adoram saúde.
-Carisma:Graça, charme e a habilidade de conseguir preços melhores de comerciantes são refletidas no Carisma. Bardos vivem de seu charme.
-Sabedoria:Intuição, inteligência e a habilidade de ganhar mais pontos de prática por nível são refletidas na Sabedoria. Clérigos usam a sabedoria melhor.
+^ySuas estatísticas abaixo refletem seus dons físicos e mentais. Eles podem ser impulsionados através do uso de ^Hsessões de treinamento^?, que são concedidas no primeiro nível e são ganhas a uma taxa de uma por nível. Essas sessões de treinamento também são necessárias para ganhar novos feitiços e habilidades para as quais sua classe se qualifica, mas não recebe no primeiro nível.^N
+^ZForça:^.^? Força física e proeza de luta são refletidas na força. Guerreiros adoram seus músculos.
+^ZInteligência:^.^? Memória e concentração, e a capacidade de obter maior proficiência em habilidades são refletidas na inteligência. Magos exigem intelecto.
+^ZDestreza:^.^? Agilidade e a capacidade de desviar de golpes são refletidas na destreza. Ladrões precisam de tudo o que conseguirem.
+^ZConstituição:^.^? Saúde, resistência e a capacidade de sobreviver a lutas mais difíceis são refletidas na constituição. Druidas adoram saúde.
+^ZCarisma:^.^? Graça, charme e a capacidade de obter melhores preços dos comerciantes são refletidas no carisma. Bardos vivem de seu charme.
+^ZSabedoria:^.^? Intuição, inteligência e a capacidade de ganhar mais pontos de prática por nível são refletidas na sabedoria. Clérigos usam melhor a sabedoria.
 I

@@ -1,2 +1,15 @@
-O servidor está fechado para manutenção.
-Por favor, tente entrar novamente mais tarde!
+                    (
+                      )     (
+               ___...(-------)-....___
+           .-""       )    (          ""-.
+     .-'``'|-._             )         _.-|
+    /  .--.|   `""---...........---""`   |
+   /  /    |                             |
+   |  |    |          EM MANUTENÇÃO          |
+    \  \   |         AGUARDE!          |
+     `\ `\ |                             |
+       `\ `|    VOLTE MAIS TARDE!    |
+       _/ /\                             /
+      (__/  \          OBRIGADO!          /
+   _..---""` \                         /`""---.._
+.-'           \                       /          '-.

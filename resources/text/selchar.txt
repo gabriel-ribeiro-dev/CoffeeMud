@@ -1,3 +1,1 @@
-
-Bem-vindo de volta ao @MudInfo?NAME@!
-
+^HSeja bem-vindo de volta a @MudInfo?NAME@!^N

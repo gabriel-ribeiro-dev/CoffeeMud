@@ -1,2 +1,2 @@
-Bem-vindo ao @MudInfo?NAME@!
-Obrigado por criar uma nova conta. Se você já tem uma conta, por favor volte e use essa conta para criar novos personagens.
+^HSeja bem-vindo a @MudInfo?NAME@!^N
+Obrigado por criar uma nova conta. Se você já possui uma conta, por favor, volte e use-a para criar novos personagens.

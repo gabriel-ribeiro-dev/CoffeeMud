@@ -1,9 +1,9 @@
-Escolha uma raça para o seu personagem. Embora as raças sejam principalmente para fins de interpretação de papéis, existem algumas diferenças significativas entre as várias raças.
-Anão:Anões são mais baixos que humanos, mas muito mais atarracados e gostam de ostentar barbas (inclusive as mulheres).
-Elfo:Elfos são um pouco mais baixos e mais esguios que humanos, mas são rápidos e ágeis.
-Gnomo:Gnomos são pessoas curiosas e perspicazes, parecidas com anões pequenos.
-Meio-Elfo:Meio-elfos são uma mistura de humanos e elfos, possuindo a ambição humana e a graça élfica.
-Meioling:Meiolingues são um povo muito baixo de pés peludos, conhecidos por suas mãos rápidas e estômagos redondos e cheios.
-Humano:Exatamente como você e eu! Humanos são aventureiros versáteis e bem-sucedidos!
-Duergar:Um anão mais rabugento e calvo, essas criaturas possuem numerosas habilidades subterrâneas escuras.
-Drow:Esses primos de pele escura dos elfos odeiam a luz do sol e são rápidos, mas frágeis.
+\n\r\n\r^pEscolha uma raça para seu personagem. Embora as raças sejam destinadas principalmente para fins de interpretação de papéis, existem algumas diferenças significativas entre as várias raças.^N
+^XAnão:^.^? Anões são menores que humanos, mas muito mais atarracados e gostam de ostentar barbas (incluindo as mulheres).
+^XElfo:^.^? Elfos são um pouco mais baixos e mais esguios que humanos, mas são rápidos e ágeis.
+^XGnomo:^.^? Gnomos são pessoas curiosas e perspicazes, parecidas com anões pequenos.
+^XMeio-elfo:^.^? Meio-elfos são uma mistura de humanos e elfos, possuindo a força de vontade humana e a graça élfica.
+^XHalfling:^.^? Halflings são pessoas de pés peludos muito baixas, conhecidas por suas mãos rápidas e estômagos redondos e cheios.
+^XHumanos:^.^? Assim como você e eu! Humanos são aventureiros versáteis e bem-sucedidos!
+^XDuergar :^.^? Um anão mais rabugento e careca, essas criaturas possuem inúmeras habilidades subterrâneas escuras.
+^XDrow:^.^? Esses primos de pele escura dos elfos odeiam a luz do sol, e são rápidos, mas frágeis.

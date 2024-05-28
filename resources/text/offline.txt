@@ -1,2 +1,5 @@
-O servidor está offline.
-Tente novamente em alguns minutos!
+
+*********************************************
+***SERVIDOR OFFLINE***
+***Tente novamente em alguns minutos!***
+*********************************************

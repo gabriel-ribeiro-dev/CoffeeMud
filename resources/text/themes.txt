@@ -1,6 +1,7 @@
-Selecione um Tema
-Selecione um dos temas a seguir. Eles afetarão suas escolhas de raça e classe no futuro.
-Fantasia:Enfrente as forças do bem e do mal neste mundo de dragões, magia e valente esgrima.
-Tecnológico:Veja o futuro em mundos distantes e nos confins do espaço enquanto você constrói um império comercial.
-Heroico:Interprete um super-herói ou um supervilão nesta luta por notoriedade e domínio.
-I
+\n\r\n\r^pSelecione um dos seguintes temas. Eles afetarão suas escolhas de raça e classe daqui para frente.^N
+^XFantasia:^.^? Lute contra as forças do bem e do mal neste mundo de dragões, magia e valente esgrima.
+^XTecnológico:^.^? Veja o futuro em mundos distantes e nos confins do espaço enquanto você constrói um império comercial.
+^XHeróico:^.^? Interprete um super-herói ou um supervilão nesta luta por notoriedade e domínio.
+\n\r\n\r^pSelecione um dos seguintes temas. Eles afetarão suas escolhas de raça e classe daqui para frente.^N
+^XFantasia:^.^? Lute contra as forças do bem e do mal neste mundo de dragões, magia e valente esgrima.
+^XTecnológico:^.^? Veja o futuro em mund
